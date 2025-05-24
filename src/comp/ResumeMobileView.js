@@ -267,10 +267,10 @@ const ResumeMobileView = () => {
                                 {/* profile        */}
                                 <Box display={"flex"} flexDirection={"column"} pb={ 2} >
                                     <Typography sx={{ textDecoration: "underline" }} gutterBottom textAlign={"left"} variant='h1rightsec'>Profile</Typography>
-                                    <Typography textAlign={"left"} variant='contentrightsec'>Immediate Joiner | Full-Stack Developer | UI/UX Enthusiast
+                                    <Typography textAlign={"left"} variant='contentrightsec'>Immediate Joiner | Front-End Developer | UI/UX Enthusiast
 
                                     </Typography>
-                                    <Typography textAlign={"left"} variant='contentrightsec'>I’m a passionate full-stack developer with a strong focus on UI/UX design and building scalable, high-performance web and mobile applications. I specialize in creating clean, user-friendly interfaces and seamless user experiences.
+                                    <Typography textAlign={"left"} variant='contentrightsec'>I’m a passionate Front-End developer with a strong focus on UI/UX design and building scalable, high-performance web and mobile applications. I specialize in creating clean, user-friendly interfaces and seamless user experiences.
                                         With hands-on experience in both frontend and backend development, I combine technical skills with design thinking to craft intuitive, responsive, and efficient digital solutions. I'm available for immediate joining and eager to contribute to innovative projects and dynamic teams.</Typography>
                                 </Box>
 
