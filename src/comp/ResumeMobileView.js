@@ -117,6 +117,7 @@ const ResumeMobileView = () => {
                 {isMobileTablet && (
                     <Button
                         variant='contained'
+                        onClick={() => window.open("https://www.linkedin.com/in/nikita-wanve-86b483229/" , "_blank")}
                         sx={{
                             position: 'fixed',
                             bottom:  26 ,
