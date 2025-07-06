@@ -68,6 +68,7 @@ const skills = [
     "MUI",
     "Bootstrap",
     "WebFlow",
+    "Canva",
     "MS OFFICE",
     "SQL",
     "Tailwind CSS",
@@ -259,6 +260,11 @@ const ResumeWebView = () => {
                                 <Box display={"flex"} textAlign={"left"} flexDirection={"column"} >
                                     <Typography sx={{ textDecoration: "underline" }} gutterBottom textAlign={"left"} variant='h1rightsec'>Certification</Typography>
                                     <Box display={"flex"} flexDirection={"column"} gap={2}>
+                                        <Box display={"flex"} flexDirection={"column"}>
+                                            <Typography variant='contentheadingrightsec'>Genrative AI for educators Certificate</Typography>
+                                            <Typography variant='contentrightsec'>Google</Typography>
+                                            <Typography variant='contentrightsec'>(June 6,2025)</Typography>
+                                        </Box>
                                         <Box display={"flex"} flexDirection={"column"}>
                                             <Typography variant='contentheadingrightsec'>Pune Startup Fest , COEP</Typography>
                                             <Typography variant='contentrightsec'>ParentHook.Com , Company Representative</Typography>
@@ -460,6 +466,19 @@ const ResumeWebView = () => {
                                 <Box display={"flex"} flexDirection={"column"} >
                                     <Typography sx={{ textDecoration: "underline" }} gutterBottom textAlign={"left"} variant='h1rightsec'>Projects</Typography>
                                     <Box display={"flex"} flexDirection={"column"}>
+                                        <Typography variant='contentheadingrightsec'>House Of food catering bookings service website</Typography>
+                                        <Typography variant='contentrightsec'>Built using ReactJS, Mui, NodeJs and integrated WhatsApp message feature when user book their book their meeting</Typography>
+                                    </Box>
+                                    <Box display={"flex"} flexDirection={"column"}>
+                                        <Typography variant='contentheadingrightsec'>RideOn Cab Booking App UI/UX Prototype</Typography>
+                                        <Typography variant='contentrightsec'>Rideon is modern user-friendly cab booking app designed for seamless,safe,and efficient travel</Typography>
+                                    </Box>
+                                    
+                                    <Box display={"flex"} flexDirection={"column"}>
+                                        <Typography variant='contentheadingrightsec'>AeroPay Payment App UI/UX Prototype</Typography>
+                                        <Typography variant='contentrightsec'>A Payment app is digital platform that allows users to send, receive and manage money using their smartphone</Typography>
+                                    </Box>
+                                    <Box display={"flex"} flexDirection={"column"}>
                                         <Typography variant='contentheadingrightsec'>Online Shopping Website</Typography>
                                         <Typography variant='contentrightsec'>Created frontend of online shopping website by using HTML , CSS , JS</Typography>
                                     </Box>
@@ -486,6 +505,11 @@ const ResumeWebView = () => {
                                 <Box display={"flex"} flexDirection={"column"} >
                                     <Typography sx={{ textDecoration: "underline" }} gutterBottom textAlign={"left"} variant='h1rightsec'>Certification</Typography>
                                     <Box display={"flex"} flexDirection={"column"} gap={2}>
+                                        <Box display={"flex"} flexDirection={"column"}>
+                                            <Typography variant='contentheadingrightsec'>Genrative AI for educators Certificate</Typography>
+                                            <Typography variant='contentrightsec'>Google</Typography>
+                                            <Typography variant='contentrightsec'>(June 6,2025)</Typography>
+                                        </Box>
                                         <Box display={"flex"} flexDirection={"column"}>
                                             <Typography variant='contentheadingrightsec'>Pune Startup Fest , COEP</Typography>
                                             <Typography variant='contentrightsec'>ParentHook.Com , Company Representative</Typography>
